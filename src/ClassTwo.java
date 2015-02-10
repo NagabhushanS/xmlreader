@@ -1,3 +1,11 @@
+/*XML READER IMPLMENTATION*/
+/*AUTHOR Nagabhushan S B*/
+/**********************
+ * The xml file is named XMLfileToBeParsed and is src folder
+ * **********************/
+
+
+
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.InputStream;
